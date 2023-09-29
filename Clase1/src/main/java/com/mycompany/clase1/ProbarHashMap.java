@@ -8,8 +8,6 @@ package com.mycompany.clase1;
  *
  * @author joel
  */
-public class Ejercicio4 {
-    public static void main(String[] args) {
-        
-    }
+public class ProbarHashMap {
+    
 }
